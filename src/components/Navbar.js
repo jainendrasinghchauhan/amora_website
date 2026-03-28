@@ -12,7 +12,7 @@ const Navbar = () => {
     <nav className="navbar">
       <div className="container">
         <div className="logo">
-          <h1>Premium Solutions</h1>
+          <h1>Amoura</h1>
         </div>
         <ul className="nav-links">
           <li><a onClick={() => scrollToSection('banner')}>Home</a></li>

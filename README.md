@@ -1,4 +1,4 @@
-# Premium Solutions - React Version
+# Amoura
 
 A modern, responsive React.js website with green and white color scheme featuring banner, features, about section, testimonials, contact form, and footer.
 

@@ -1,7 +1,7 @@
 {
   "name": "premium-solutions-react",
   "version": "1.0.0",
-  "description": "Premium Solutions Website built with React",
+  "description": "Amoura Website built with React",
   "private": true,
   "dependencies": {
     "react": "^18.2.0",

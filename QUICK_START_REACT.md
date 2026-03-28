@@ -2,7 +2,7 @@
 
 ## What You Have
 
-A complete React.js version of the Premium Solutions website with:
+A complete React.js version of the Amoura website with:
 - ✅ All 3 functionalities (Phone, WhatsApp, Email Form)
 - ✅ All 6 sections (Banner, Features, About, Testimonials, Contact, Footer)
 - ✅ Green and white design
@@ -69,7 +69,7 @@ const formSubmitEndpoint = 'https://formsubmit.co/your-email@gmail.com';  // Cha
 
 **File:** `src/components/Navbar.js` (Line ~15)
 ```javascript
-<h1>Premium Solutions</h1>  // Change to your company name
+<h1>Amoura</h1>  // Change to your company name
 ```
 
 ### Change Colors
